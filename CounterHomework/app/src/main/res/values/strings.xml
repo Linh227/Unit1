@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CounterHomework</string>
+    <string name="count_initial_value">0</string>
+    <string name="btn_count">Count</string>
+    <string name="edit_text">This is edit text</string>
+</resources>
